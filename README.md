@@ -43,21 +43,16 @@ Before finalizing the payment, a dialog will prompt for:
 
 ---
 
-### 6. 💵 Cash Screen
+### 💵 Cash Screen
 If cash is selected, input the received amount to calculate change.
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_no_voucher.png?raw=true)
-
----
-
-### 7. 🧾 Voucher (Slip) with Tax
-If the order requires a printed voucher, a 5% tax is added to the grand total.
-[image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/add_cash_amount_voucher.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/payment_screen.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/payment_screen2.png?raw=true)
 
 ---
 
 ### 8. ✅ Checkout & Success Screen
 After confirming the order, the staff sees a success screen. Payment method can still be adjusted post-checkout.
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/ordre_success.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/sale_success.png?raw=true)
 
 ---
 
@@ -69,9 +64,11 @@ Manage core entities with full CRUD operations:
 - 🍽 Menu Items
 - 🌶 Taste Levels
 
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339052.png?raw=true)
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339055.png?raw=true)
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339061.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/control_panel.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/products.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/add_products.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/menu.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/categories.png?raw=true)
 
 ---
 
@@ -82,14 +79,16 @@ View sales summary by:
 - Weekly
 - Monthly
 
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/montly_report.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/daily_report.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/monthly_report.png?raw=true)
 
 ---
 
 ## 🕓 Order History
 
 View all past transactions. Staff can edit orders post-checkout to correct human mistakes.
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/sale_history.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/sale_histories.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/history_detail.png?raw=true)
 
 ---
 
@@ -97,8 +96,9 @@ View all past transactions. Staff can edit orders post-checkout to correct human
 
 App supports multiple languages for diverse staff.
 
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339076.png?raw=true)
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339081.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/languages.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/languages2.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/languages3.png?raw=true)
 
 ---
 
@@ -107,9 +107,11 @@ App supports multiple languages for diverse staff.
 - Change the primary color on the fly
 - Supports dark mode for night shifts
 
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339331.png?raw=true)
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339350.png?raw=true)
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339358.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/theme.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/theme1.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/theme2.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/theme3.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/theme4.png?raw=true)
 
 ---
 
@@ -117,7 +119,7 @@ App supports multiple languages for diverse staff.
 
 Simple and secure logout function for session management.
 
-![image alt](https://github.com/khamenkhai/shanshan_screenshots/blob/main/images/Screenshot_1745339966.png?raw=true)
+![image alt](https://github.com/khamenkhai/shanshan-screenshots/blob/main/images/logout.png?raw=true)
 
 ---
 
