@@ -136,12 +136,6 @@ Simple and secure logout function for session management.
 ---
 
 
-## 👨‍🍳 Built For
-
-This project was made specifically for my friend's Mala Xiang Guo restaurant to streamline orders, enhance accuracy, and manage restaurant operations with ease.
-
----
-
 
 
 
