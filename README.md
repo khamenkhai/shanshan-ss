@@ -4,6 +4,8 @@ A custom-built Point of Sale (POS) application tailored for a Shan Shan Mala Mao
 
 ---
 
+![image alt](https://raw.githubusercontent.com/khamenkhai/shanshan-ss/refs/heads/main/images/shanshan.png)
+
 ## 📸 Screenshots
 
 
